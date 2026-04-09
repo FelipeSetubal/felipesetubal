@@ -1,56 +1,85 @@
 
-<h1 align="center">OII! Eu sou Felipe Dias Setubal. Bem-vindo ao meu GITHUB!</h1>
+# Hi 👋, I'm Felipe
 
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+🚀 **Python Developer | Automation & Web Scraping**
+🇧🇷 Brazil
 
-###
+I build **automation tools**, **data-driven scripts**, and **real-world Python projects**.
+Currently focused on improving my skills in **automation, web scraping, and backend development**.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+## 🌐 Where to find me
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="left">
+  <a href="https://github.com/FelipeSetubal">
+    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 🧠 What I'm working on
 
-###
+* 🤖 Automation bots (Selenium)
+* 🛒 Price monitoring systems (Amazon scraping)
+* 📊 Data collection & analysis
+* 🧩 Improving clean code & project structure
+* 🚀 Building projects for portfolio
 
-###
+---
 
-<br clear="both">
+## 🛠️ Tech Stack
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### Languages
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Tools & Libraries
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+
+---
+
+## 📂 Featured Project
+
+### 🤖 Amazon Price Monitor
+
+Automation bot that tracks product prices from Amazon.
+
+**Features:**
+
+* 🔍 Real price scraping
+* 📉 Price monitoring
+* 📊 Data storage (CSV)
+* ⏱️ Automation execution
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Goals
+
+* 📈 Become a professional Python developer
+* 🤖 Master automation and scraping
+* 🌐 Build real-world systems
+* 💼 Get my first dev opportunity
+
+---
+
+## 💡 Philosophy
+
+> *"Learning by building real projects."*
+
+---
+
+⭐ Always learning and improving
+🤝 Open to opportunities and collaborations
 
