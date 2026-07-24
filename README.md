@@ -1,15 +1,12 @@
 
-# Hi 👋, I'm Felipe
-
-🚀 **Python Developer | Automation & Web Scraping**
-🇧🇷 Brazil
+# Hi, I'm Felipe
 
 I build **automation tools**, **data-driven scripts**, and **real-world Python projects**.
 Currently focused on improving my skills in **automation, web scraping, and backend development**.
 
 ---
 
-## 🌐 Where to find me
+## Where to find me
 
 <p align="left">
   <a href="https://github.com/FelipeSetubal">
